@@ -1,4 +1,5 @@
 Identifier	Size	Weight	Type	Funny Name
+<<<<<<< HEAD
 1	35	13	Macaroni	Noodles
 2	23	23	Galapagos	Harry
 3	32	45	Humboldt	Berta
@@ -7,3 +8,8 @@ Identifier	Size	Weight	Type	Funny Name
 9	44	8	yellow-eyed	tom
 10	3	2	little_ble	bob
 11	3	2	fjordland	tony	
+=======
+12	83	30	black_white	Pingu42
+13	66	25	red_blue	Lala123
+14	78	26	green_yellow	Paula	
+>>>>>>> ClarasBranch
